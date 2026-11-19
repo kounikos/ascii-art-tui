@@ -21,7 +21,7 @@ Ensure you have a recent version of Go installed. Standard ANSI output support i
 
 ```bash
 # Clone the repository
-git clone https://github.com/YongPadawan/ascii-art-tui
+git clone https://github.com/kounikos/ascii-art-tui
 cd ascii-art-tui
 
 # Boot the Dashboard
